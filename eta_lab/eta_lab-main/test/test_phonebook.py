@@ -86,7 +86,7 @@ class TestPhonebook:
         phonebook = Phonebook()
         name = "Joao"
         number = ""
-        message = "Numero invalido"
+        message = "Numero adicionado"
 
         # Chamada
         result = phonebook.add(name, number)
